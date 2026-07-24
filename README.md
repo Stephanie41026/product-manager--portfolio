@@ -1,6 +1,6 @@
-#Stephanie Obiajulu
+# Stephanie Obiajulu
 
-##Product Manager | Digital Products | AI
+## Product Manager | Digital Products | AI
 
 I build digital products by combining user research, product strategy, product analytics, and cross functional collaborations to solve complex business and user problems. 
 
@@ -10,7 +10,7 @@ My experience includes improving digital workflows in home health, where i devel
 
 ---  
 
-#Portfolio Overview
+# Portfolio Overview
 
 Welcome! This portfolio showcases how i approach product management from discovery to delivery. Each case study demonstrates my process for understanding user needs, defining problems, prioritizing opportunities, collaborating with stakeholders, and measuring product outcomes. 
 
@@ -18,7 +18,7 @@ Whether the project is based on my professional experience or independent produc
 
 ---
 
-##Explore My Work
+## Explore My Work
 
 Featured Product Case Studies
 Product Analytics & SQL
