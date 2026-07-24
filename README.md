@@ -6,7 +6,7 @@ I build digital products by combining user research, product strategy, product a
 
 My experience includes improving digital workflows, translating stakeholder needs into product requirements, prioritizing solutions using data and user feedback, and measuring success through product analytics and continous improvement.
 
-My experience includes improving digital workflows in home health, where i developed a structured approach to user research, product discovery, prioritization, and data- informed decision-making. Those product principles are applicable across healthcare, SaaS, AO, fintech, ad enterprise software.
+My experience includes improving digital workflows in home health, where i developed a structured approach to user research, product discovery, prioritization, and data- informed decision-making. Those product principles are applicable across healthcare, SaaS, AI, fintech, ad enterprise software.
 
 ---  
 
