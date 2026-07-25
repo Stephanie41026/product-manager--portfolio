@@ -46,5 +46,17 @@ My background in home healthcare has stengthened my ability to understand comple
 ### Project Summary
 
 This case study explores how product management priniciples can be used to improve scheduling workflows in home healthcare. Rather than redsigning an existing scheduling platform, the focus is on identifying workflow challeges, understanding user needs, and proposing product improvements that enhance operational efficiency and the care experience.
----
 
+### Business Context
+
+Home healthcare organizations coordinate thousands of patient visits each week.Care teams- including schedulers, nurses, Personal Support Worker (PSWs), and care coordinators must work together to ensure patients receieve the right cae at the right time.
+
+While scheduling platforms help manage visit assignments, operational challenges can stillaffect workflow efficiency. Last minute cancellations, urgent referrals, tavel constraints, and communication gaps can increase administrative workload while reducing the time available for direct patient care. 
+
+### Problem Statement 
+
+Home healthcare organizations rely on timely commuication between schedulers, patients, and family caregivers to deliver safe and reliable care. However, communication breakdowns during scheduling changes can create operational inefficiencies and negatively affect both staff and patient experiences. 
+
+When patients cancel appointments, staff call in sick, new visits are assigned, or schedules change, important updates may not reach the appropriate people through reliable communication channels. These breakdows can result in missed visits, delayed care, frustrated patients and family caregivers, increased administrative workload, lost revenue opportunities, and unnecessary stress for healthcare workers.
+
+Additionally, replacement healthcare workers often receive limited patient-specific information when covering unfamiliar visits, making it difficult to confidently deliver personalized care. This increases uncertainty for staff while reducing continuity of care for patients who depend on consistent routines. 
