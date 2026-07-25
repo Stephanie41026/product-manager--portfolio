@@ -35,8 +35,16 @@ AI Product Concepts
 
 I am a Product Manager passionate about building user-centered digital products that solve real business and customer problems. I enjoy combining user research, product strategy, data analysis, and cross-functional collaboration to deliver meaningful product outcomes.
 
-
 My background in home healthcare has stengthened my ability to understand complex workflows, gather stakeholder requirement, priortize opportunities, and make data-informed decisions. Through this portfolio, i showcase my approach to product management using case studies, product documents, analytics projects, and product strategy exercises. 
 
+---
+
+# Product Management Case Studies
+
+## Case Study 1: Optimizing Scheduling Workflows in Home Healthcare
+
+### Project Summary
+
+This case study explores how product management priniciples can be used to improve scheduling workflows in home healthcare. Rather than redsigning an existing scheduling platform, the focus is on identifying workflow challeges, understanding user needs, and proposing product improvements that enhance operational efficiency and the care experience.
 ---
 
