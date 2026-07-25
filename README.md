@@ -28,3 +28,14 @@ Product Strategy
 Roadmaps
 Wireframes & Prototypes
 AI Product Concepts
+
+---
+
+## About Me
+
+I am a Product Manager passionate about building user-centered digital products that solve real business and customer problems. I enjoy combining user research, product strategy, data analysis, and cross-functional collaboration to deliver meaningful product outcomes.
+
+My background in home healthcare has stengthened my ability to understand complex workflows, gather stakeholder requirement, priortize opportunities, and make data-informed decisions. Through this portfolio, i showcase my approach to product management using case studies, product documents, analytics projects, and product strategy exercises. 
+
+---
+
